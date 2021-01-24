@@ -3,6 +3,10 @@
 🕹 캐글의 [비디오 게임 세일즈 데이터](https://www.kaggle.com/gregorut/videogamesales)를 활용하여  
 🎙다음 분기에 어떤 게임을 설계해야 잘 팔릴까 제안해 보기
 
+### 환경
+jupyter notebook  
+python (matplotlib.pyplot, seaborn, spearman correlation etc)
+
 ### data description
 `Name` : 게임의 이름  
 `Platform` : 게임이 지원되는 플랫폼  
